@@ -50,7 +50,7 @@ Contribuições são sempre bem-vindas. Seja adicionando novas funcionalidades, 
 
 ## Contato
 
-Seu Nome - [@joaoalbertorsc](https://instagram.com/joaoalbertorsc) - jaoalbertorsc@gmail.com
+Meu contatos - [@joaoalbertorsc](https://instagram.com/joaoalbertorsc) - jaoalbertorsc@gmail.com
 
 Link do Projeto: [https://github.com/joaoalbertorsc/speech-assistant](https://github.com/joaoalbertorsc/speech-assistant)
 
